@@ -1,0 +1,13 @@
+<script src="https://code.jquery.com/jquery-git.js"></script>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>My</title>
+</head>
+<body>
+  <h1>HTML is cool</h1>
+<p>My Name is <strong>Manoj</p>
+</body>
+</html>
